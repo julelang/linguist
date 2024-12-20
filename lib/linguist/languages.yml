@@ -3592,6 +3592,15 @@ Jsonnet:
   - ".libsonnet"
   tm_scope: source.jsonnet
   language_id: 664885656
+Jule:
+  type: programming
+  color: "#5f7489"
+  aliases:
+  - julelang
+  extensions:
+  - ".jule"
+  tm_scope: source.jule
+  language_id: 90868683
 Julia:
   type: programming
   extensions:
