@@ -3600,6 +3600,7 @@ Jule:
   extensions:
   - ".jule"
   tm_scope: source.jule
+  ace_mode: text
   language_id: 90868683
 Julia:
   type: programming
