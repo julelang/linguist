@@ -1201,6 +1201,8 @@ vendor/grammars/vscode-janet:
 - source.janet
 vendor/grammars/vscode-jest:
 - source.jest.snap
+vendor/grammars/vscode-jule:
+- source.jule
 vendor/grammars/vscode-just:
 - source.just
 vendor/grammars/vscode-lean:
