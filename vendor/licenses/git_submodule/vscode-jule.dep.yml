@@ -1,6 +1,6 @@
 ---
 name: vscode-jule
-version: 27662b2519b6780c86314e0c3e7ba6be21f3ff03
+version: 1a6dc0119f1ccdf5884fd7ef08653628969e9a39
 type: git_submodule
 homepage: https://github.com/julelang/vscode-jule.git
 license: bsd-3-clause
@@ -9,7 +9,7 @@ licenses:
   text: |
     BSD 3-Clause License
 
-    Copyright (c) 2022, Mertcan DAVULCU
+    Copyright (c) 2022-2025, Mertcan DAVULCU
 
     Redistribution and use in source and binary forms, with or without
     modification, are permitted provided that the following conditions are met:
